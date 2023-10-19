@@ -57,6 +57,7 @@ input {
 
 .main_header {
     position: relative;
+    z-index: 10;
 }
 
 .header_container {
@@ -110,6 +111,7 @@ input {
 .hero {
     padding-top: 160px;
     padding-bottom: 108px;
+    
 }
 
 .hero_container {
@@ -121,6 +123,7 @@ input {
 
 .hero_content_box {
     width: 555px;
+    z-index: 10;
 }
 
 .hero_content_title {
